@@ -1,0 +1,14 @@
+PODS:
+  - cptr1 (0.1.0)
+
+DEPENDENCIES:
+  - cptr1 (from `../`)
+
+EXTERNAL SOURCES:
+  cptr1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  cptr1: 276d477b37443e88a377b9a422cc0606781bcfb4
+
+COCOAPODS: 0.35.0
