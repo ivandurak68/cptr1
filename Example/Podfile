@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'cptr1', :exclusive => true do
+  pod "cptr1", :path => "../"
+
+  
+end
